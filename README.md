@@ -5,22 +5,9 @@
     <h4 aling="center">Im a future Fullstack Developer, I'm from Colombia, Actually I'm study for being a great fullstack developer
     </h4>
 </div>
----
-### 🗿🗿🗿About me 🗿🗿🗿
-    -📚 I'm currentle Learning **Reac.js, PHP, Mysql, MongoDB, **
-    -🔎 How to reach me **JarrissonN@outlook.com**
-
-<!--
-**Jarrisson/Jarrisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="main" aling="center">
+    <h1>🗿🗿🗿About me 🗿🗿🗿 </h1>
+    <p> -📚 I'm currentle Learning **Reac.js, PHP, Mysql, MongoDB</p>
+    <br>
+    <p> -🔎 How to reach me **JarrissonN@outlook.com**</p>
+</div>
