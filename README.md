@@ -1,15 +1,19 @@
 <div id="header" aling="center">
+     <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
     <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
-        <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
     <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
-        <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
     <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
-        <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+    <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+    <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+    <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+    <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+    <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
     <h1 aling="center">Welcome to my repository </h1>
     <h3 aling="center"> Hi!! I'm Jarrisson but the people call me "Jordy"</h3>
     <h4 aling="center">I'm a future Fullstack Developer, I'm from Colombia, Actually I'm study for being a great fullstack developer
     </h4>
-    <h4 aling="center">Actualmente estoy aprendiendo para ser un desarollador Fullstack, me considero alguien muy creativo, mi proposito en la vida es crear algo que de impato al mundo, mis hobbies son la musica, el dibujo y aprender todo relacionado a tecnologia y desarrollo</h4>
+    <h4 aling="center">Actualmente estoy aprendiendo para ser un desarollador Fullstack, me considero alguien muy creativo, mi proposito en la vida es crear algo que de impato al mundo, mis hobbies son       la musica, el dibujo y aprender todo relacionado a tecnologia y desarrollo.</h4>
+    <img aling="center" src="https://giphy.com/embed/xT9IgGmQ1aDzXCdMic" " width="100"/>
 </div>
 <div id="main" aling="center">
     <h1>🗿🗿🗿About me 🗿🗿🗿 </h1>
