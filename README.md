@@ -1,8 +1,9 @@
 <div id="header" aling="center">
     <img src="https://i.kym-cdn.com/entries/icons/original/000/038/462/Untitled_2.jpg" width="200"/> 
     <img src="https://i.kym-cdn.com/entries/icons/original/000/038/462/Untitled_2.jpg" width="200"/>
-    <img src="https://preview.redd.it/hcat9848mm391.gif?width=600&auto=webp&v=enabled&s=981c466cd88dd8c290df3ba09a29e9813d5f3fe3" width="200"/>
+    <div class="tenor-gif-embed" data-postid="24211878" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kanye-cracked-yandhi-gif-24211878">Kanye Cracked GIF</a>from <a href="https://tenor.com/search/kanye-gifs">Kanye GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     <h1 aling="center">Welcome to my repository </h1>
+    <div class="tenor-gif-embed" data-postid="24211878" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kanye-cracked-yandhi-gif-24211878">Kanye Cracked GIF</a>from <a href="https://tenor.com/search/kanye-gifs">Kanye GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     <h3 aling="center"> Hi!! I'm Jarrisson but the people call me "Jordy"</h3>
     <h4 aling="center">Im a future Fullstack Developer, I'm from Colombia, Actually I'm study for being a great fullstack developer
     </h4>
