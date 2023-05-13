@@ -9,7 +9,7 @@
     <h3 aling="center"> Hi!! I'm Jarrisson but the people call me "Jordy"</h3>
     <h4 aling="center">I'm a future Fullstack Developer, I'm from Colombia, Actually I'm study for being a great fullstack developer
     </h4>
-    <h4 aling="center">Actualmente estoy aprendiendo para ser un desarollador Fullstack, me consideor alguien muy creativo, mi proposito en la vida es crear algo que de impato al mundo, mis hobbies son la musica, el dibujo y aprender todo relacionado a tecnologia y desarrollo</h4>
+    <h4 aling="center">Actualmente estoy aprendiendo para ser un desarollador Fullstack, me considero alguien muy creativo, mi proposito en la vida es crear algo que de impato al mundo, mis hobbies son la musica, el dibujo y aprender todo relacionado a tecnologia y desarrollo</h4>
 </div>
 <div id="main" aling="center">
     <h1>🗿🗿🗿About me 🗿🗿🗿 </h1>
