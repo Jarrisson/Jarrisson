@@ -8,6 +8,5 @@
 <div id="main" aling="center">
     <h1>🗿🗿🗿About me 🗿🗿🗿 </h1>
     <p> -📚 I'm currentle Learning **Reac.js, PHP, Mysql, MongoDB</p>
-    <br>
     <p> -🔎 How to reach me **JarrissonN@outlook.com**</p>
 </div>
