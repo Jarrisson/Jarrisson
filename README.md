@@ -12,12 +12,12 @@
     <h3 aling="center"> Hi!! I'm Jarrisson but the people call me "Jordy"</h3>
     <h4 aling="center">I'm a future Fullstack Developer, I'm from Colombia, Actually I'm study for being a great fullstack developer
     </h4>
-    <h4 aling="center">Now I'm studing for being a good full stack developer, right now I'm in a React course and a fullstack Bootcamp, learning about React-vite, php, node.js. In the future I want to         learn about UI and UX desing and how to being a Scrum Master. I like learn all about tecnology and Programing topics, also Draw and talk and obviusly listen music, the people says I'm funny and a          good person who worry about them, but in my opinion I considerate my self shy. </h4>
+    <h4 aling="center">Now I'm studing for being a good full stack developer, right now I'm in a React course and a fullstack Bootcamp, learning about React-vite, PHP, node.js. In the future I want to         learn about UI and UX desing and how to being a Scrum Master. I like learn all about tecnology and Programing topics, also Draw and talk and obviusly listen music, the people says I'm funny and a          good person who worry about them, but in my opinion I considerate my self shy. </h4>
     <img align="center" src="https://i.imgur.com/FXwzRCh.gif" width="400"/>
 </div>
 <div id="main" aling="center">
     <h1>🗿🗿🗿About me 🗿🗿🗿 </h1>
-    <p> -📚 I'm currentle Learning  Reac.js, PHP, Mysql, MongoDB</p>
+    <p> -📚 I'm currently Learning  Reac.js, PHP, Mysql, MongoDB</p>
     <p> -🔎 How to reach me JarrissonN@outlook.com</p>
 </div>
 <h3 align="left">Languages and Tools:</h3>
