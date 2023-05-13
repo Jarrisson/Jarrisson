@@ -13,7 +13,7 @@
     <h4 aling="center">I'm a future Fullstack Developer, I'm from Colombia, Actually I'm study for being a great fullstack developer
     </h4>
     <h4 aling="center">Actualmente estoy aprendiendo para ser un desarollador Fullstack, me considero alguien muy creativo, mi proposito en la vida es crear algo que de impato al mundo, mis hobbies son       la musica, el dibujo y aprender todo relacionado a tecnologia y desarrollo.</h4>
-    <img src="https://imgur.com/FXwzRCh" width="100"/>
+    <img src="https://imgur.com/FXwzRCh" width="500"/>
 </div>
 <div id="main" aling="center">
     <h1>🗿🗿🗿About me 🗿🗿🗿 </h1>
