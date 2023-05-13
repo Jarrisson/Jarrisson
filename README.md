@@ -8,8 +8,8 @@
 </div>
 <div id="main" aling="center">
     <h1>🗿🗿🗿About me 🗿🗿🗿 </h1>
-    <p> -📚 I'm currentle Learning **Reac.js, PHP, Mysql, MongoDB</p>
-    <p> -🔎 How to reach me **JarrissonN@outlook.com**</p>
+    <p> -📚 I'm currentle Learning  Reac.js, PHP, Mysql, MongoDB</p>
+    <p> -🔎 How to reach me JarrissonN@outlook.com</p>
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
