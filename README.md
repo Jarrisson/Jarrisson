@@ -1,5 +1,5 @@
 <div id="header" aling="center">
-    <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
+    <img aling="center" src="https://media1.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif?cid=ecf05e47ibeon6tizovttdt0ghlr023y3x3grt10vrfjiqvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
     <h1 aling="center">Welcome to my repository </h1>
     <h3 aling="center"> Hi!! I'm Jarrisson but the people call me "Jordy"</h3>
     <h4 aling="center">Im a future Fullstack Developer, I'm from Colombia, Actually I'm study for being a great fullstack developer
